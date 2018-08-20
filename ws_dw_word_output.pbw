@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "app_dw_word_output.pbt";
+@end;
+DefaultTarget "app_dw_word_output.pbt";
+DefaultRemoteTarget "app_dw_word_output.pbt";
